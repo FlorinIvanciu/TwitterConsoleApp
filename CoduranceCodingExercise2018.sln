@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2043
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoduranceCodingExercise2018", "CoduranceCodingExercise2018\CoduranceCodingExercise2018.csproj", "{CF1EE6B4-5F8B-4B15-BE43-143D7B3A46A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoduranceCodingExercise2018.Test", "CoduranceCodingExercise2018.Test\CoduranceCodingExercise2018.Test.csproj", "{6775A6E0-8E6D-4367-8C03-91ED7EE31932}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF1EE6B4-5F8B-4B15-BE43-143D7B3A46A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF1EE6B4-5F8B-4B15-BE43-143D7B3A46A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF1EE6B4-5F8B-4B15-BE43-143D7B3A46A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF1EE6B4-5F8B-4B15-BE43-143D7B3A46A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6775A6E0-8E6D-4367-8C03-91ED7EE31932}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6775A6E0-8E6D-4367-8C03-91ED7EE31932}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6775A6E0-8E6D-4367-8C03-91ED7EE31932}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6775A6E0-8E6D-4367-8C03-91ED7EE31932}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F36B4BF0-BD19-434E-AE11-9E76501B27C6}
+	EndGlobalSection
+EndGlobal
