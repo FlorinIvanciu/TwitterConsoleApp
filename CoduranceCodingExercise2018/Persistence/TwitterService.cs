@@ -56,7 +56,7 @@ namespace CoduranceCodingExercise2018.Persistence
         public string TimePosted(DateTime dt)
         {
             TimeSpan ts = (DateTime.Now - dt);
-            string spanTime = string.Empty;
+            string spanTime = "(now)";
             if (ts.Days > 0)
             {
                 spanTime = string.Format("({0} day{1} ago)", ts.Days, ts.Days > 1 ? "s" : "");
